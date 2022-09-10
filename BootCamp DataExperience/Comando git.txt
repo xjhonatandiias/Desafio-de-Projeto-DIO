@@ -1,0 +1,7 @@
+git clone "caminho do repositorio"
+
+git add  " adcionar arquivo"
+
+git commit "comitar arquivo ou repositorio" -m "comentar"
+
+git status "ver status"
